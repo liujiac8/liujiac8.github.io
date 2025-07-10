@@ -11,10 +11,10 @@ title                    : "Jiachen Liu"
 title_separator          : "-"
 name                     : &name "Jiachen Liu"
 description              : &description "Ph.D. Candidate in Measurement and Quantitative Methods, Michigan State University"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://liujiac8.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "liujiac8.github.io"
-teaser                   : "Headshot.png"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "liujiac8/liujiac8.github.io"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Jiachen Liu"
-  avatar           : "profile.png"
-  bio              : "Ph.D. Candidate in Measurement and Quantitative Methods, Department of Education, Michigan State University"
-  location         : "East Lansing, Michigan, United States"
+  avatar           : "Headshot.png"
+  bio              : "Postdoc Research Associate, Department of Statistics, Purdue University; Ph.D. in Measurement and Quantitative Methods, Michigan State University; M.S. in Statistics, Michigan State University; B.S. in Statistics, Beijing Normal University"
+  location         : "West Lafayette, Indiana, United States"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "liujiac8"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/jiachen-liu-77b16b193/"
+  orcid            : "https://orcid.org/0000-0002-9719-5486"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "Jiachen979"
   vine             :
   weibo            :
   xing             :

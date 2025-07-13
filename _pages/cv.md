@@ -35,19 +35,17 @@ Skills
   
 Presentations
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
+- Liu, J., Schmidt, W.H., Houang, R.T. (2025). *A Review of Modeling Distributions for Student GPA.* Roundtable session to be presented at the annual meeting of the 2025 Joint Statistical Meetings. Nashville, TN; August.
+- Liu, J., Cui, Y., Weng, H., Schmidt, W.H. (2025). *Valid Instrumental Variable Selection Using Lasso under the Control Function Approach.* Paper session to be presented at the 2025 Joint Statistical Meetings. Nashville, TN; August.
+- Liu, J. (2024). *Modeling the GPA Distribution.* Concurrent session presented at the annual meeting of the 2024 ASA Conference on Statistical Practice. New Orleans, LA; February.
+
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Taught introductory courses in general linear models (LM), generalized linear models (GLM), linear mixed models (LMM), and generalized linear mixed models (GLMM)
   
 Membership
 ======
 * American Educational Research Association
 * American Statistical Association
-* Association for Education Finance and Policy
-* Society for Research on Educational Effectiveness

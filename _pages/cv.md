@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include base_path %} 
+You may find Jiachen's CV attached [here](https://github.com/liujiac8/liujiac8.github.io/blob/master/Jiachen_Liu_CV.pdf).
+
 
 Education
 ======
@@ -18,32 +20,20 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Aug 2019- May 2025: Research Assistant
+* Sep 2023- Dec 2023: Teaching Assistant
+* June 2018- May 2019: Undergraduate Research Assistant
   
 Skills
 ======
 * Languages
-  * R Studio
-  * Stata
-  * Python
-  * SAS
-  * Mplus
-  * Tableau
-  * SPSS
+  * R Studio, Stata, Python, SAS, Mplus, Tableau, SPSS
 * Certification
   * Certified Associate in Python Programming (Python Institute, June 2021)
   * Tableau Desktop Specialist (Tableau, Sep 2020)
 
   
-Talks
+Presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}

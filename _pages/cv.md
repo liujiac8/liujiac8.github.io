@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Measurement and Quantitative Methods, Michigan State University, 2025
+* M.S. in Statistics, Michigan State University, 2023
+* B.S. in Statistics, Beijing Normal University, 2019
+
 
 Work experience
 ======
@@ -29,18 +30,18 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * R Studio
+  * Stata
+  * Python
+  * SAS
+  * Mplus
+  * Tableau
+  * SPSS
+* Certification
+  * Certified Associate in Python Programming (Python Institute, June 2021)
+  * Tableau Desktop Specialist (Tableau, Sep 2020)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
@@ -54,6 +55,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Membership
 ======
-* Currently signed in to 43 different slack teams
+* American Educational Research Association
+* American Statistical Association
+* Association for Education Finance and Policy
+* Society for Research on Educational Effectiveness

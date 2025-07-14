@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Jiachen Liu, Ph.D., is a postdoctoral research associate in the Wedow Lab and under the Department of Statistics at Purdue University. She received her Ph.D. in Measurement and Quantitative Methods and M.S. in Statistics from Michigan State University. And she received her B.S. in Statistics from Beijing Normal University.
+Jiachen Liu, Ph.D., is a postdoctoral research associate in the Wedow Lab and under the Department of Statistics at Purdue University. She received her Ph.D. in Measurement and Quantitative Methods and M.S. in Statistics from Michigan State University. She also received her B.S. in Statistics from Beijing Normal University.
 
 Jiachen is particularly interested in socio-genomic problems. In the Wedow Lab, she works on developing and applying statistical methods for multi-ancestry polygenic risk score and fine-mapping using large-scale datasets such as UK Biobank and All of US. She is also interested in exploring approaches to studying nonlinear Mendelian randomization problems. Methodologically, she is broadly interested in Generalized Linear Mixed Models (GLMMs), variable selection, and causal inference analysis. This site highlights her research, teaching, and academic presentations.
 
@@ -39,7 +39,12 @@ Presentations
 
 - Liu, J., Schmidt, W.H., Houang, R.T. (2025). *A Review of Modeling Distributions for Student GPA.* Roundtable session to be presented at the annual meeting of the 2025 Joint Statistical Meetings. Nashville, TN; August.
 - Liu, J., Cui, Y., Weng, H., Schmidt, W.H. (2025). *Valid Instrumental Variable Selection Using Lasso under the Control Function Approach.* Paper session to be presented at the 2025 Joint Statistical Meetings. Nashville, TN; August.
+- Schmidt, W.H., Liu, J., Wang, X., Houang, R.T., Yeager, D.S. (2025). *Textbooks in Perpetuating Growth Mindset Effect.* Virtual paper session presented at the 2025 annual meeting of the American Educational Research Association. Denver, CO; April.
+- Liu, J., Schmidt, W.H., Yeager, D.S. (2025). *Re-examining the Growth Mindset Treatment Effect: An Illustration of Why Distributional Assumption Matters.* Paper session presented at the 2025 annual meeting of the American Educational Research Association. Denver, CO; April.
+- Liu, J., Schmidt, W.H., Houang, R.T. (2025). *OTL Consistency Reconceptualized and Why There Might Be No Curriculum for All.* Roundtable session presented at the 2025 annual meeting of the American Educational Research Association. Denver, CO; April.
 - Liu, J. (2024). *Modeling the GPA Distribution.* Concurrent session presented at the annual meeting of the 2024 ASA Conference on Statistical Practice. New Orleans, LA; February.
+- Liu, J. (2023). *Prior Achievement, Future Learning Opportunities and Student Achievement.* Poster presented at the annual meeting of the Modern Modeling Methodology. Storrs, CT; June.
+- Liu, J. (2022). *Prior Achievement, Future Learning Opportunities and Student Achievement.* Poster presented at the annual meeting of the American Educational Finance and Policy. Denver, CO; March.
 
   
 Teaching

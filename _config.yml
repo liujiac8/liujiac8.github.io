@@ -85,7 +85,7 @@ author:
   bio              : "Postdoc Research Associate, Department of Statistics, Purdue University"
   location         : "West Lafayette, Indiana"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,11 +102,11 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jiachen-liu-77b16b193/"
+  linkedin         : "https://www.linkedin.com/in/jiachen-liu-77b16b193"
   orcid            : "https://orcid.org/0000-0002-9719-5486"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/27662029/jiachen-liu?tab=profile" # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/27662029/jiachen-liu" # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : "Jiachen979"
